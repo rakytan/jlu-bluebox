@@ -1,0 +1,16 @@
+#summary 对项目分工以及开发流程进行了更为细致的讨论
+
+= Introduction =
+
+1.关于分工
+2.开发流程
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+1.关于分工
+
+考虑到每个人对于手机软件开发都不是很熟悉，并且基于蓝牙的项目开发是我们首次尝试，因此我们改变了上次模块分工的想法，而采取每个人从头到尾做，共同讨论，逐步完善，最终形成一个统一的可用版本的方式。
